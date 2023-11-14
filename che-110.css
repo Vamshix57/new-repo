@@ -1,0 +1,39 @@
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+}
+ul{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: x-large;
+}
+ol{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:x-large; 
+}
+figure{
+    margin-left: 100px;
+}
+div{
+    margin: 20px;
+}
+.image{
+    text-align: center;
+}
+#h2{
+    margin-top: 5px;
+}
+#h1{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+.h2{
+    text-align: center;
+}
+}
+body{
+    background-image: url(https://previews.123rf.com/images/gonin/gonin1507/gonin150700074/42848308-abstract-blue-white-geometrical-web-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
